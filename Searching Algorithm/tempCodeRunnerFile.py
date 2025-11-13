@@ -1,3 +1,1 @@
-for x in nums[i:j]:
-            #     print(x)
-            #     coun
+[1,-2,6,-1,3]
