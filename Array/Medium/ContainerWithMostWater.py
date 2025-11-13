@@ -40,5 +40,5 @@ def trapRainWater(height):
         else:
             right-=1
     return max_water
-height=[1,8,6,2,5,4,8,3,7]
+height=[4,2,0,6,3,5]
 print(trapRainWater(height))
